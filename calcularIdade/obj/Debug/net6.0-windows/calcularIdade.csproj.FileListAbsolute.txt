@@ -1,0 +1,17 @@
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\bin\Debug\net6.0-windows\calcularIdade.exe
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\bin\Debug\net6.0-windows\calcularIdade.deps.json
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\bin\Debug\net6.0-windows\calcularIdade.runtimeconfig.json
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\bin\Debug\net6.0-windows\calcularIdade.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\bin\Debug\net6.0-windows\calcularIdade.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.csproj.AssemblyReference.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.Form1.resources
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.csproj.GenerateResource.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.AssemblyInfoInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.AssemblyInfo.cs
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\refint\calcularIdade.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\calcularIdade.genruntimeconfig.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\calcularIdade\calcularIdade\obj\Debug\net6.0-windows\ref\calcularIdade.dll
