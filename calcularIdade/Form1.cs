@@ -14,10 +14,19 @@ namespace calcularIdade
 
         private void bt_calcular_Click(object sender, EventArgs e)
         {
-            DateTime d1 = DateTime.Now;
-            DateTime datanasc = dateTimePicker1.Value;
-            int retornoComaparaDatas = DateTime.Compare(d1, datanasc );
+            DateTime dataAtual = DateTime.Now;
+            DateTime dataNasc = dateTimePicker1.Value;
+            int idade = dataAtual.Year - dataNasc.Year;
+
+            if (dataNasc.AddYears(idade) > dataAtual)
+            {
+                idade--;
+            }                 
+            lb_resultado.Text = $"A sua Idade é: {idade}";
+
         }
+
+    
 
         private void lb_resultado_Click(object sender, EventArgs e)
         {
@@ -25,6 +34,11 @@ namespace calcularIdade
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
 
         }
